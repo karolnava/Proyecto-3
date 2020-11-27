@@ -6,3 +6,10 @@ Archivos .h
 -> Material.h
 -> Reserva.h
 -> Software.h
+
+Archivos .txt
+-> Material.txt
+-> Reserva.txt
+
+Archivo main.cpp
+-> main.cpp
